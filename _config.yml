@@ -1,0 +1,28 @@
+name: kellementology
+favicon: null
+layout_spectrum: 0.8463405289221555
+typography_spectrum: 0.01929787639528513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6693386363331228
+  lightness: 0.6136708369012922
+  saturation: 0.6455037274863571
+  rhythmicContrast: 0.25653270655311644
+purpose: []
