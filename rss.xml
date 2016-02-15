@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kellementology]]></title>
         <description><![CDATA[kellementology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kellementology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 21:22:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 21:22:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kellementology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/288912a7-38a4-4d85-ae4d-6c0046b33465.jpg">]]></description>
+            <link>https://thegrid.ai/kellementology/6dd55ed4-149e-4069-adf1-bb465c347f25/index.html</link>
+            <guid isPermaLink="false">6dd55ed4-149e-4069-adf1-bb465c347f25</guid>
+            <pubDate>Mon, 15 Feb 2016 21:22:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Through the Lens]]></title>
             <description><![CDATA[<article><h1>Through the Lens</h1><p>Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/464cf5d0708cec67be571e2c51234eab120eff1b.jpg"></article>]]></description>
-            <link>undefinedthrough-the-lens/index.html</link>
+            <link>https://thegrid.ai/kellementology/through-the-lens/index.html</link>
             <guid isPermaLink="false">2162aaed-3d95-42bd-9e0b-670f529047bd</guid>
             <pubDate>Mon, 15 Feb 2016 21:22:05 GMT</pubDate>
         </item>
