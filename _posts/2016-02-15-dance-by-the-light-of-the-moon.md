@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A bit of wisdom
-datePublished: '2016-02-15T21:22:33.271Z'
-dateModified: '2016-02-15T21:17:36.474Z'
+datePublished: '2016-02-24T01:19:08.042Z'
+dateModified: '2016-02-24T01:07:08.380Z'
 title: Dance by the light of the moon.
 author: []
 authors: []
