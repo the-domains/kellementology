@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A bit of wisdom
-datePublished: '2016-02-24T01:19:08.042Z'
-dateModified: '2016-02-24T01:07:08.380Z'
+datePublished: '2016-02-24T01:26:04.492Z'
+dateModified: '2016-02-24T01:20:58.164Z'
 title: Dance by the light of the moon.
 author: []
+sourcePath: _posts/2016-02-15-dance-by-the-light-of-the-moon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-dance-by-the-light-of-the-moon.md
-published: true
 url: dance-by-the-light-of-the-moon/index.html
 _type: Blurb
 
